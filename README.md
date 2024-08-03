@@ -3,7 +3,7 @@
 
 ![DevEnvClean Logo](logo11.png) <!-- Placeholder for DevEnvClean logo -->
 
-**DevEnvClean: Effortless Environment Cleanup for macOS Developers**
+**DevEnvClean: Effortless Environment Cleanup for macOS Users**
 
 DevEnvClean is a powerful and comprehensive cleanup script designed to keep your macOS development environment clean and efficient. It automates the removal of old virtual environments, clears caches, and frees up space by removing unnecessary files and directories. Whether you're dealing with Python bytecode files, Docker artifacts, or npm cache, DevEnvClean has got you covered.
 
@@ -27,7 +27,7 @@ DevEnvClean is a powerful and comprehensive cleanup script designed to keep your
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/devclean.git
+   git clone https://github.com/BillySmithDesign/DevEnvClean-.git
    cd devclean
    ```
 
